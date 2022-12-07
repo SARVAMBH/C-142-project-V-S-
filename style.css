@@ -1,0 +1,45 @@
+.heading {
+    width: 100%;
+    text-align : left;
+}
+
+.heading button {
+    border : 1px solid white;
+    float: right;
+    width:200px;
+}
+
+.big_image {
+    width: 100%;
+}
+
+#play , #status
+{
+    font-size: 22px;
+}
+
+.heading h3 {
+    display :inline;
+}
+
+canvas {
+    box-shadow: 2px 2px 2px white;
+    background-color: black;
+    float : center;
+}
+
+.modal-dialog {
+    width: 90%;
+}
+
+.copy-right footer 
+{
+      bottom:0;
+      width:100%;
+      font-size:22px;
+      background-color:lightgrey;
+      color:black;
+      position:fixed;
+      line-height: 3;
+      text-align: center;
+}
